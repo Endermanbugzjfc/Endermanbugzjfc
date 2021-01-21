@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <div class="img"><img></img></div>
+    </body>
+    <script>
+        window.onload = function() {
+            let imgs = [
+                'Castle.svg',
+                'City.svg',
+                'Desert.svg',
+                'Farm.svg',
+                'Farm2.svg',
+                'Island.svg',
+                'Landmass.svg',
+                'Mountain.svg',
+                'Pier.svg',
+                'Pond.svg',
+                'Pond2.svg',
+                'Town.svg',
+                'Tunnel.svg',
+                'Village.svg'
+            ];
+            let img = imgs[Math.floor(Math.random() * imgs.length)];
+            console.log(img);
+            document.querySelector(".img").firstElementChild.src = img;
+
+        }
+    </script>
+</html>
