@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <body>
-        <div class="img"><img></img></div>
+        <img></img>
     </body>
     <script>
         window.onload = function() {
@@ -23,7 +23,7 @@
             ];
             let img = imgs[Math.floor(Math.random() * imgs.length)];
             console.log(img);
-            document.querySelector(".img").firstElementChild.src = img;
+            document.querySelectorAll('img')[0].src = img;
 
         }
     </script>
