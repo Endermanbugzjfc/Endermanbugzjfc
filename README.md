@@ -1,15 +1,28 @@
 
 
 [![Endermanbugzjfc](https://github.com/Endermanbugzjfc/Endermanbugzjfc/blob/fd917f3e7d63482850a1be521ec13f85f0d72d4a/name-cards/Castle.svg)](https://endermanbugzjfc.github.io/Endermanbugzjfc/name-cards/)
-## Three of my favorite things
+# My three favorite things
 | <a href="https://en.wikipedia.org/wiki/Hong_Kong"><img src="https://raw.githubusercontent.com/Endermanbugzjfc/Endermanbugzjfc/master/images/hk.svg" width="75%" alt="Hong Kong" title="Hong Kong"></a> | <a href="https://www.sublimetext.com/"><img src="https://raw.githubusercontent.com/Endermanbugzjfc/Endermanbugzjfc/master/images/sublime.svg" width="50%" alt="Sublime Text" title="Sublime Text"></a> | <a href="https://youtu.be/PHgc8Q6qTjc"><img src="https://raw.githubusercontent.com/Endermanbugzjfc/Endermanbugzjfc/master/images/congrats.svg" width="50%" alt="Congratulations" title="Congratulations"></a> |
 |:--:|:--:|:--:|
 | <a href="https://en.wikipedia.org/wiki/Hong_Kong">Hong Kong</a> | <a href="https://www.sublimetext.com/">Sublime Text</a> | <a href="https://youtu.be/PHgc8Q6qTjc">Congratulations - Pewdiepie</a> |
 | <a href="https://en.wikipedia.org/wiki/Hong_Kong">My home</a> | <a href="https://www.sublimetext.com/">An epic source code editor</a> | <a href="https://youtu.be/PHgc8Q6qTjc">The great song</a> |
 
-## Accounts
+# Accounts
 | Platform | Username |
 |:--:|--|
 | <a href="https://discord.app"><img src="https://raw.githubusercontent.com/Endermanbugzjfc/Endermanbugzjfc/master/images/dc.svg" width="10%" alt="Discord" title="Discord"> **Discord**</a> |  Endermanbug終界翡翠#2304 |
+
+# <img src="https://raw.githubusercontent.com/Endermanbugzjfc/Endermanbugzjfc/master/images/friends.svg" width="3%" alt="Friends" title="Friends"> Friends
+## From PocketMine-MP Discord
+-  <a href="https://github.com/mmm545"><img src="https://avatars.githubusercontent.com/u/64874108?s=400&u=2c606412d0889bb2cfa73250309bd912f1dd4112&v=4" width="3%" alt="mmm545" title="mmm545"> **mmm545**</a>
+- <a href="https://github.com/Jviguy"><img src="https://avatars.githubusercontent.com/u/62412449?s=400&u=16c07e392cc92f775fe40208b25729efcb5e155d&v=4" width="3%" alt="Jviguy" title="Jviguy"> **Jviguy**</a>
+- <a href="https://github.com/SOF3"><img src="https://avatars.githubusercontent.com/u/19623715?s=400&u=8fc1200ecfbd85a03c59f998f50ee2822ee45e20&v=4" width="3%" alt="SOF3" title="SOF3"> **SOF3**</a>
+
+## From Omlet Arcade
+- <a href="https://github.com/BluSimmon"><img src="https://avatars.githubusercontent.com/u/57604186?s=400&v=4" width="3%" alt="BluSimmon" title="BluSimmon"> **BluSimmon**</a>
+- <a href="https://github.com/ZStarMCZ5487"><img src="https://avatars.githubusercontent.com/u/73019806?s=400&v=4" width="3%" alt="ZStarMCZ5487" title="ZStarMCZ5487"> **ZStarMCZ5487**</a>
+- <a href="https://github.com/QMoon10189"><img src="https://avatars.githubusercontent.com/u/72264393?s=400&v=4" width="3%" alt="QMoon10189" title="QMoon10189"> **QMoon10189**</a>
+
+---
 
 <a href="https://youtu.be/dQw4w9WgXcQ"><img src="https://raw.githubusercontent.com/Endermanbugzjfc/Endermanbugzjfc/master/images/rickastley.svg" width="25%" alt="Rick Astley" title="Rick Astley"></a>
