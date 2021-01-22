@@ -7,4 +7,9 @@
 | <a href="https://en.wikipedia.org/wiki/Hong_Kong">Hong Kong</a> | <a href="https://www.sublimetext.com/">Sublime Text</a> | <a href="https://youtu.be/PHgc8Q6qTjc">Congratulations - Pewdiepie</a> |
 | <a href="https://en.wikipedia.org/wiki/Hong_Kong">My home</a> | <a href="https://www.sublimetext.com/">An epic source code editor</a> | <a href="https://youtu.be/PHgc8Q6qTjc">The great song</a> |
 
+## Accounts
+| Platform | Username |
+|:--:|--|
+| <a href="https://discord.app"><img src="https://raw.githubusercontent.com/Endermanbugzjfc/Endermanbugzjfc/master/images/dc.svg" width="10%" alt="Discord" title="Discord"> **Discord**</a> |  Endermanbug終界翡翠#2304 |
+
 <a href="https://youtu.be/dQw4w9WgXcQ"><img src="https://raw.githubusercontent.com/Endermanbugzjfc/Endermanbugzjfc/master/images/rickastley.svg" width="25%" alt="Rick Astley" title="Rick Astley"></a>
