@@ -32,4 +32,4 @@
 ---
 
 <a href="https://youtu.be/dQw4w9WgXcQ"><img src="https://raw.githubusercontent.com/Endermanbugzjfc/Endermanbugzjfc/master/images/rickastley.svg" width="20%" alt="Rick Astley" title="Rick Astley"></a><img src="https://github-readme-stats.vercel.app/api?username=Endermanbugzjfc&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true" width="75%" align="right">
-![Epik banner by ethaniccc](https://media.discordapp.net/attachments/419876965986729984/809116770929082368/standard_2.gif)
+![Epik banner by ethaniccc](https://media.discordapp.net/attachments/419876965986729984/809116770929082368/standard_2.gif) *<-- Shout out: Banner by [ethaniccc](https://github.com/ethaniccc)*
