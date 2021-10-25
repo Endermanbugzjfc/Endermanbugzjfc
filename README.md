@@ -1,3 +1,4 @@
+![](https://github.com/Endermanbugzjfc/Endermanbugzjfc/blob/d2a0e12ef8c96074ff535e4d8e1eb4aa0ef8e337/e4b324e/card.svg?raw=true)
 A random 14yo in Hong Kong. Love discovering new knowledge!
 
 **Discord:** Endermanbug終界翡翠#2304 _(Constantly active in the [PocketMine-MP guild](https://discord.gg/XDugAkJ), well until I'm muted...)_
