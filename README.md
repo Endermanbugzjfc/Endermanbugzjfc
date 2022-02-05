@@ -2,6 +2,3 @@
 
 
 *not for sale
-# Favourites
-- Text editor: Sublime Text 3
-- Git client: Sublime Merge
