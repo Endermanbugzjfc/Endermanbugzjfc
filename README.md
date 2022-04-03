@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://youtu.be/qRVwlPuztsY">
-    <img src="https://img.shields.io/badge/Rest In Peace-Oreo-black" title="Rest In Peace Oreo" width=700></img>
+    <img src="https://img.shields.io/badge/Rest In Peace-🌸 Oreo-black" title="Rest In Peace Oreo" width=700></img>
   </a>
 </p>
 
