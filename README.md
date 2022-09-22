@@ -1,7 +1,7 @@
 <a href="https://youtu.be/SeZlTseet-0">
 
 ```php
-Big5::demand(); // 索取五大碼
+libEraTE\Big5::demand(); // 使用《時代$t$e》程式庫索取五大碼
 ```
 </a>
 
