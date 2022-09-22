@@ -1,11 +1,7 @@
 <a href="https://youtu.be/SeZlTseet-0">
 
 ```php
-// 大五 / 五大碼：
-$five = new Big5();
-
-// 索取：
-$five->demand();
+Big5::demand(); // 索取五大碼
 ```
 </a>
 
