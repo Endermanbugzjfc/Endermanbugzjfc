@@ -1,10 +1,4 @@
-<a href="https://youtu.be/SeZlTseet-0">
-
-```php
-libEraTE\Big5::demand(); // 使用《時代$t$e》程式庫索取五大碼
-```
-</a>
-
+# "last time, wen i was mking vapourwares, it turn 2 vapour before i can finish it" &mdash; invetor of boiling point
 ***
 [![*not for sale](https://images-ext-1.discordapp.net/external/4YY9wjCOp-2cMlFGZSbLR7cOgGZrwqi-vlp3gZXMjbE/%3Fwidth%3D780%26height%3D585/https/media.discordapp.net/attachments/430364566027763744/938125566488490014/IMG_2604.jpg)](https://youtu.be/qRVwlPuztsY)
 
