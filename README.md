@@ -1,2 +1,2 @@
-# 同舟人誓相隨
-<p align="right">—— 羅文《獅子山下》</p>
+# Amazon banned me for invalid reason
+endermanbugzjfc@gmail.com
