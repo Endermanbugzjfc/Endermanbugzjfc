@@ -1,1 +1,1 @@
-# we hate your code #nnn
+# we hate your code :< #nnn
