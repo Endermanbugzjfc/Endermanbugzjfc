@@ -1,1 +1,3 @@
-Might be the first person who plays Osu!Lazer using a reMarkable 2 Paper Tablet.
+An Osu!Lazer player using the Polyglot keyboard and reMarkable 2 Paper Tablet.
+
+No, I never studied at HKUST.
