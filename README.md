@@ -1,4 +1,4 @@
-努力需要藉口
+努力 \*需要\* 藉口
 
 # Hi, you are looking at my older account
 
