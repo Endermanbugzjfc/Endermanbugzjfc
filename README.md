@@ -1,4 +1,4 @@
-studying is like knowing the lores of books
+努力需要藉口
 
 # Hi, you are looking at my older account
 
