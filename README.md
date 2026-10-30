@@ -1,5 +1,7 @@
 努力 \*需要\* 藉口
 
+i jummp a different mushroom each day
+
 # Hi, you are looking at my older account
 
 I created a new account [@Ezjfc](https://github.com/Ezjfc) to place (slightly) higher-quality repositories.
